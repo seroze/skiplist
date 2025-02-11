@@ -8,3 +8,7 @@
 ### The layer above has half the data in and the layer above has half of that, and so on.
 ### If a piece of data is on one level it most be on all the ones below it as well,
 ### and we link these together to let us descend the structure.
+
+TODO:
+[] move the library to a package and see if anyone can access it just from github
+[] measure the performance
